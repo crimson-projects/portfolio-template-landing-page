@@ -1,6 +1,6 @@
 <div align="center">
 
-# Crimson Personal Portfolio Template. Landing page | Crimson
+# Crimson Personal Portfolio Template. Landing page
 
 <img src="admin/base.png">
 
